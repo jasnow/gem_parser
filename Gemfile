@@ -6,9 +6,9 @@ gem 'sinatra'
 gem 'gemnasium-parser', github: 'librariesio/gemnasium-parser'
 gem 'oj'
 gem 'unicorn'
+gem 'rake'
 
 group :test do
   gem 'rack-test'
   gem 'minitest'
-  gem 'rake'
 end
