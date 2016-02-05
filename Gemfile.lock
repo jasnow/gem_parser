@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/librariesio/gemnasium-parser.git
-  revision: 672f0938cab6d6b3825c5212003654f8c7e5a8b6
+  revision: c1386115b3d1fb3a54dc4a038a7dd39427f122e6
   specs:
     gemnasium-parser (0.1.10)
 
@@ -9,7 +9,7 @@ GEM
   specs:
     kgio (2.10.0)
     minitest (5.8.4)
-    oj (2.14.3)
+    oj (2.14.4)
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
